@@ -14,3 +14,5 @@ Or open the project in Ren'Py and click Launch Project.
 game/ – Scripts, images, and audio
 
 README.md – This file
+
+https://github.com/sshekar15/vsnovel 
